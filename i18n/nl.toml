@@ -1,32 +1,34 @@
 [CONTACT_ADDRESS]
-  other = "住所"
+  other = "Adres"
 [CONTACT_EMAIL]
-  other = "メール"
+  other = "E-mail"
 [CONTACT_FORM_FIELD_EMAIL]
-  other = "メール"
+  other = "E-mail"
 [CONTACT_FORM_FIELD_MESSAGE]
-  other = "メッセージ"
+  other = "Bericht"
 [CONTACT_FORM_FIELD_NAME]
-  other = "名前"
+  other = "Naam"
 [CONTACT_FORM_SUBMIT_SEND_MESSAGE]
-  other = "メッセージを送信"
+  other = "Versturen"
 [CONTACT_PHONE]
-  other = "電話"
+  other = "Telefoon"
 [CONTACT_SOCIAL]
-  other = "SNS"
+  other = "Sociale Media"
 [COPYRIGHT_MESSAGE_1]
   other = "Design: [HTML5 UP](https://html5up.net)"
 [COPYRIGHT_MESSAGE_2]
   other = "Hugo Port: [curtiscode](https://curtiscode.dev)"
 [INTRO_CONTINUE]
-  other = "継続"
+  other = "Verder"
+[NAV_MENU]
+  other = "Menu"
 [NAV_CONTACT]
   other = "Contact"
 [PAGINATION_NEXT]
-  other = "次"
+  other = "Volgende"
 [PAGINATION_PREVIOUS]
-  other = "前"
+  other = "Vorige"
 [PAGINATION_FIRST]
-  other = "最初"
+  other = "Eerste"
 [PAGINATION_LAST]
-  other = "最後"
+  other = "Laatste"
